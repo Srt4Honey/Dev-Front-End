@@ -1,0 +1,24 @@
+body {
+    background-color: aliceblue;
+    color: darkslategrey;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: darkslategrey;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.socorro {
+    width: 250px;
+    height: 250PX;
+    display: flex;
+    text-align: center;
+    margin: 30px auto;
+}
+
+img {
+    border-radius: 50px;
+}
